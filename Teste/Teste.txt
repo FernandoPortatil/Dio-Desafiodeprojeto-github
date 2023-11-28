@@ -1,1 +1,3 @@
 Teste dos comandos git push para fazer push de commits da branch local para o repositório remoto.
+
+Em seguida testar a utilização do comando git pull e atualizar o repositório local a partir de uma mudaça feita diretamente no repositório Remoto.
