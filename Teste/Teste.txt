@@ -1,1 +1,1 @@
-teste 
+Teste dos comandos git push para fazer push de commits da branch local para o repositório remoto.
